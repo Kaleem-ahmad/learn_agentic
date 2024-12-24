@@ -1,0 +1,17 @@
+# https://github.com/panaversity/learn-agentic-ai/blob/main/12_langchain_ecosystem/langgraph/AGENTIC_PROJECTS/00_chat_agent/requirements.md
+Project Requirements:
+  Choose Your Niche: Pick a specific group of people or industry to help with 
+  your chatbot 
+        (e.g., students, healthcare, customer service).
+  
+  Make Smart Conversations: Make sure the chatbot answers correctly and understands what users want. 
+  Use Prompt Engineering.
+
+  Add Useful Tools: 
+    Give the chatbot features like helping users submit complaints, giving outfit ideas, 
+    or making study plans.
+
+  Short-Term Memory: 
+    Make the chatbot remember the current conversation to give better answers.
+
+Use Google Colab: Build and test your chatbot using this platform.
